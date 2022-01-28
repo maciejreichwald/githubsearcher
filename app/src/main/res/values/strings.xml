@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Github Searcher</string>
+    <string name="search">Search</string>
+    <string name="no_data">No repository could match given query</string>
+    <string name="filter_hint">Search param</string>
+    <string name="filter_repo">Repository</string>
+    <string name="filter_org">Organization</string>
+    <string name="filter_user">User</string>
+    <string name="filter_error">Required field</string>
+
+    <string-array name="filter_items">
+        <item>@string/filter_org</item>
+        <item>@string/filter_repo</item>
+        <item>@string/filter_user</item>
+    </string-array>
+</resources>

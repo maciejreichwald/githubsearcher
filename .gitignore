@@ -1,0 +1,56 @@
+# Created by https://www.gitignore.io and updated by @markovicdev
+
+### OSX ###
+.DS_Store
+
+
+### Android ###
+# Generated files
+bin/
+gen/
+captures/
+reports/
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log Files
+*.log
+
+# signing keys
+release.keystore
+
+### Android Patch ###
+gen-external-apklibs
+
+
+### Intellij ###
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm
+
+*.iml
+
+## Directory-based project format:
+projectFilesBackup/
+.idea/*
+
+## File-based project format:
+*.ipr
+*.iws
+
+## Plugin-specific files:
+
+# IntelliJ
+out/
+.navigation/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
