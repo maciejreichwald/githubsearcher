@@ -8,7 +8,7 @@ android {
     compileSdkVersion 31
 
     defaultConfig {
-        applicationId "com.rudearts.cyber2020"
+        applicationId "com.rudearts.githubsearcher"
         minSdkVersion 21
         targetSdkVersion 31
         versionCode 90

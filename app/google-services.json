@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "687271360886",
+    "project_id": "github-searcher-ec028",
+    "storage_bucket": "github-searcher-ec028.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687271360886:android:ff6cf1173d99f226cae257",
+        "android_client_info": {
+          "package_name": "com.rudearts.githubsearcher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687271360886-8plbc4hqfmqg54bu8kfisn65t3hlgj0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPiYrrJrXvhLtVDgHpwiAVc8UaD9-_7A0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687271360886-8plbc4hqfmqg54bu8kfisn65t3hlgj0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
